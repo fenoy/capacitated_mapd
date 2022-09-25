@@ -6,7 +6,7 @@ This code integrates [OR-Tools](https://developers.google.com/optimization/routi
 
 ### Generating instances
 
-1. Decide which agent and task size you want to use. (max 20 agents and 40 tasks)
+1. Decide which agent and task size you want to use. (max 10 agents and 20 tasks)
 
 2. Create directory to place the instances
 
